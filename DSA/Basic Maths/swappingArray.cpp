@@ -43,7 +43,7 @@ int main(){
     // string s ="madam";
     // cout<< func(0,s);
 
-    cout<< fib(50);
+    // cout<< fib(50);
    
    
    return 0;
